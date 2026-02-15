@@ -12,3 +12,10 @@ brew install git
 2️⃣ Install Python3 di macOS
 python3 --version
 brew install python
+
+Usage Tool
+git clone https://github.com/deokta/RITADItrack.git
+cd RITADItrack
+pip3 install -r requirements.txt
+python3 ghosttr.py
+
